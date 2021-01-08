@@ -1,6 +1,6 @@
 # unity-ml-agent
 
-![banner](./Unity banner.png)
+![banner](./Unitybanner.png)
 
 Unity ml agent for RL
 
